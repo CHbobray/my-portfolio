@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bobby Hendricks</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Bobby Hendricks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>&lt;p&gt;Program and project leader with 18+ years delivering technology, data, and cybersecurity initiatives for Fortune 500 companies and financial services firms, now completing an M.S. in Data Science at Northwestern University.&lt;/p&gt;
+&lt;h2 id=&#34;xms-solutions-inc--plano-tx&#34;&gt;XMS Solutions, Inc. — Plano, TX&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Director, Project Management&lt;/strong&gt; · January 2019 – Present&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead enterprise cybersecurity programs for Fortune 500 clients, coordinating security architects, engineers, vendors, and business stakeholders through planning, implementation, and delivery.&lt;/li&gt;
+&lt;li&gt;Manage Zero Trust security initiatives covering identity and access management, privileged access, data protection, and controls that limit the impact of security incidents.&lt;/li&gt;
+&lt;li&gt;Lead privileged access and identity security implementations involving multifactor authentication, credential management, administrative access, and role-based access controls.&lt;/li&gt;
+&lt;li&gt;Manage FedRAMP-related cybersecurity implementations, coordinating security requirements, technical dependencies, access controls, network configuration, and stakeholder approvals.&lt;/li&gt;
+&lt;li&gt;Lead vulnerability management efforts by tracking critical findings, assigning remediation ownership, monitoring deadlines, and escalating unresolved security risks.&lt;/li&gt;
+&lt;li&gt;Support deployment of enterprise security technologies, including BeyondTrust Remote Support and Microsoft-based security solutions, across complex client environments.&lt;/li&gt;
+&lt;li&gt;Lead data protection, disaster recovery, and resilience initiatives that protect sensitive information, reduce operational risk, and improve recovery from system or security failures.&lt;/li&gt;
+&lt;li&gt;Translate technical cybersecurity risks into clear business impacts, decisions, and mitigation actions for executives and nontechnical stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;fannie-mae--plano-tx&#34;&gt;Fannie Mae — Plano, TX&lt;/h2&gt;
+&lt;p&gt;February 2013 – December 2018&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;Data science and data engineering projects from my work and my M.S. in Data Science at Northwestern University. Each project links to its code repository.&lt;/p&gt;
+&lt;h2 id=&#34;personal-portfolio-website&#34;&gt;Personal Portfolio Website&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Hugo, Go templates, Markdown, Git, GitHub&lt;br&gt;
+This site, built with the Hugo static site generator and deployed automatically from GitHub.&lt;br&gt;
+&lt;a href=&#34;https://github.com/YOUR-USERNAME/my-portfolio&#34;&gt;View the code on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;📄 &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/Bobby-Hendricks-Resume.pdf&#34;&gt;Download my resume (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Northwestern University&lt;/strong&gt; — Evanston, IL&lt;br&gt;
+Master of Science in Data Science · Expected May 2027&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dallas Baptist University, College of Business&lt;/strong&gt; — Dallas, TX&lt;br&gt;
+Master of Business Administration (MBA), Strategy and Finance · December 2010&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The University of Texas at Dallas, School of Economic, Political and Policy Sciences&lt;/strong&gt; — Richardson, TX&lt;br&gt;
+B.S. in Public Administration; B.A. in Government &amp;amp; Politics · May 1998&lt;/p&gt;
+&lt;h2 id=&#34;certifications&#34;&gt;Certifications&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Project Management Professional (PMP)&lt;/strong&gt; — Project Management Institute&lt;br&gt;
+PMI ID: 1356498 · January 2024 – Present&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>&lt;h2 id=&#34;data-science--analytics&#34;&gt;Data Science &amp;amp; Analytics&lt;/h2&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Area&lt;/th&gt;
+					&lt;th&gt;Tools&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Programming languages&lt;/td&gt;
+					&lt;td&gt;Python, R, SQL&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Data visualization&lt;/td&gt;
+					&lt;td&gt;Power BI, Tableau&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Databases&lt;/td&gt;
+					&lt;td&gt;SQL Server&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;ERP &amp;amp; financial systems&lt;/td&gt;
+					&lt;td&gt;SAP, Oracle, Hyperion, QuickBooks&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;cybersecurity-program-delivery&#34;&gt;Cybersecurity Program Delivery&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Zero Trust architecture initiatives&lt;/li&gt;
+&lt;li&gt;Identity and access management (IAM) and privileged access management (PAM)&lt;/li&gt;
+&lt;li&gt;Multifactor authentication and role-based access control&lt;/li&gt;
+&lt;li&gt;FedRAMP-related implementations&lt;/li&gt;
+&lt;li&gt;Vulnerability management and remediation tracking&lt;/li&gt;
+&lt;li&gt;Data protection, disaster recovery, and resilience&lt;/li&gt;
+&lt;li&gt;BeyondTrust Remote Support and Microsoft security solutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;program--project-management&#34;&gt;Program &amp;amp; Project Management&lt;/h2&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Area&lt;/th&gt;
+					&lt;th&gt;Tools &amp;amp; Methods&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Methodologies&lt;/td&gt;
+					&lt;td&gt;Agile (Scrum), Waterfall, SDLC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Management tools&lt;/td&gt;
+					&lt;td&gt;JIRA, Confluence, Clarity, Planview, MS Project, ServiceNow&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Productivity&lt;/td&gt;
+					&lt;td&gt;Microsoft Visio, Excel, Word, Access, PowerPoint, Outlook, OneNote, Teams&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;industry-experience&#34;&gt;Industry Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enterprise cybersecurity (Fortune 500 clients)&lt;/li&gt;
+&lt;li&gt;Mortgage servicing and single-family housing finance&lt;/li&gt;
+&lt;li&gt;Default servicing: bankruptcy, foreclosure, and REO&lt;/li&gt;
+&lt;li&gt;Outsourcing, offshoring, and global delivery teams&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

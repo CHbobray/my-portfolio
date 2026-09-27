@@ -248,6 +248,16 @@ params:
         links:
           - icon: fas fa-file-pdf
             url: /projects/Moz-Growth-Analysis.pdf
+      - title: "College Scorecard EDA: Do College Costs Pay Off?"
+        content: "Python exploratory analysis of 6,429 U.S. colleges linking completion rate, tuition, debt, and institution type to median earnings 10 years after entry. Found completion rate was the strongest predictor of earnings (r = 0.51)."
+        badges:
+          - "Python"
+          - "pandas"
+          - "seaborn"
+          - "EDA"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/CHbobray/college-scorecard-eda
   # Contact
   contact:
     enable: true
@@ -287,5 +297,6 @@ params:
 
 frontmatter:
   date: ["date", ":fileModTime"]
+
 
 

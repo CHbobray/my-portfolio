@@ -52,3 +52,17 @@ Analyzed why Moz, an SEO software company, nearly doubled revenue from $21.9M to
 - Recommended a sequenced turnaround: refocus on the core Moz Pro product, fix retention before scaling acquisition, and anchor growth targets to internally generated cash.
 
 [View the presentation (PDF)](/projects/Moz-Growth-Analysis.pdf)
+
+## College Scorecard EDA: Do College Costs Pay Off?
+
+**Tools:** Python, pandas, NumPy, Matplotlib, seaborn, Jupyter  
+**Data:** U.S. Department of Education College Scorecard (6,429 institutions, 3,306 fields)
+
+Explored how completion rate, tuition, student debt, institution type, and enrollment size relate to graduates' median earnings 10 years after entry.
+
+- Profiled missing values and privacy-suppressed codes, used boxplots and the IQR method to separate legitimate outliers from invalid data, and engineered new fields (tuition gap, enrollment size bins, earnings-to-debt ratio).
+- Cleaned the data down to 1,938 institutions with complete key fields.
+- Tested three hypotheses with correlation and regression plots: completion rate (r = 0.51) was the strongest predictor of earnings, ahead of tuition and debt (both r = 0.47).
+- Compared institution types: public schools delivered median earnings of about $49,300 at about $8,500 tuition, while for-profit schools had the lowest earnings (about $40,100) at twice the public tuition.
+
+[View the notebook and code on GitHub](https://github.com/CHbobray/college-scorecard-eda)

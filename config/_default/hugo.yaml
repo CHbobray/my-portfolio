@@ -1,0 +1,260 @@
+baseURL: "https://bobbyhendricks.netlify.app/"
+languageCode: "en-us"
+title: "Bobby Hendricks"
+theme: hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Extra links in the top menu (Markdown detail pages in the content folder).
+# The homepage sections (About, Experience, Education, etc.) are added automatically.
+menus:
+  main:
+    - identifier: skills
+      name: Skills
+      title: Skills
+      url: /skills/
+      weight: 1
+    - identifier: resume
+      name: Resume
+      title: Resume
+      url: /resume/
+      weight: 2
+
+params:
+  title: "Bobby Hendricks"
+  description: "Data Science and Data Engineering Portfolio of Bobby Hendricks"
+  favicon: "/fav.png"
+  useBootstrapCDN: false
+  mathjax: false
+  animate: true
+
+  theme:
+    defaultTheme: "light"
+
+  font:
+    fontSize: 1rem
+    fontWeight: 400
+    lineHeight: 1.5
+    textAlign: left
+
+  navbar:
+    align: ms-auto
+    brandName: "Bobby Hendricks"
+    disableSearch: true
+    stickyNavBar:
+      enable: true
+      showOnScrollUp: true
+    enableSeparator: false
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: false
+      disableContact: false
+
+  # Hero (top of the homepage)
+  hero:
+    enable: true
+    intro: "Hi, my name is"
+    title: "Bobby Hendricks."
+    subtitle: "Data Science | Program Leadership | Cybersecurity"
+    content: "Program and project leader with 18+ years delivering technology, data, and cybersecurity initiatives for Fortune 500 companies, now completing an M.S. in Data Science at Northwestern University."
+    image: /images/hero.svg
+    bottomImage:
+      enable: true
+    roundImage: false
+    button:
+      enable: true
+      name: "Resume"
+      url: "/Bobby-Hendricks-Resume.pdf"
+      download: true
+      newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/CHbobray
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/bobby-h-143113252
+        - icon: fas fa-envelope
+          url: mailto:bobbyhendricks2029@u.northwestern.edu
+
+  # About
+  about:
+    enable: true
+    title: "About Me"
+    content: |-
+      I have spent more than 18 years leading technology programs in cybersecurity, mortgage servicing, and financial services at XMS Solutions, Fannie Mae, Ocwen Financial, and CoreLogic. My work has centered on turning complex technical and data problems into clear decisions and measurable results, including database migrations, workflow automation, and enterprise security implementations.
+
+      I am now completing a Master of Science in Data Science at Northwestern University (expected May 2027), building on that business and delivery experience with hands-on skills in Python, R, SQL, and data engineering.
+    skills:
+      enable: true
+      title: "Technologies and tools I work with:"
+      items:
+        - "Python"
+        - "R"
+        - "SQL"
+        - "Power BI"
+        - "Tableau"
+        - "SQL Server"
+        - "JIRA / Confluence"
+        - "ServiceNow"
+        - "Agile / Scrum"
+        - "Hugo / Go"
+
+  # Experience
+  experience:
+    enable: true
+    items:
+      - company: "XMS Solutions, Inc."
+        jobs:
+          - name: "Director, Project Management"
+            date: "Jan 2019 - Present"
+            info:
+              content: "Plano, TX"
+            content: |
+              - Lead enterprise cybersecurity programs for Fortune 500 clients, coordinating security architects, engineers, vendors, and business stakeholders.
+              - Manage Zero Trust, identity and access management, privileged access, and FedRAMP-related implementations.
+              - Lead vulnerability management, data protection, disaster recovery, and resilience initiatives.
+              - Translate technical cybersecurity risks into clear business impacts and decisions for executives.
+
+      - company: "Fannie Mae"
+        jobs:
+          - name: "Senior Project Manager, Single-Family Strategy & Insights"
+            date: "Feb 2013 - Dec 2018"
+            info:
+              content: "Plano, TX"
+            content: |
+              - Coached a cross-functional team of 12 in the Real Estate Repair Working Group; repairs generated a net benefit of $100M (5.11% ROI).
+              - Developed the Valuations Integration Issues solution (dashboard and operational risk management plan) for the executive team.
+              - Supported the Simplify Servicing initiative, targeting a 50% reduction in Fannie Mae costs to the servicer.
+              - Distilled complex, disparate information into concise insights for executives in Voice of Customer work.
+          - name: "Senior Project Manager, CPM Business Transformation Office"
+            content: |
+              - Led all phases of the Credit Division Windows 8 migration.
+              - Managed BTO administrative budgets and Quarterly Business Reviews for senior leadership.
+
+      - company: "Ocwen Financial (formerly Homeward Residential)"
+        jobs:
+          - name: "Senior Manager, Project Management"
+            date: "Aug 2011 - Feb 2013"
+            info:
+              content: "Coppell, TX"
+            content: |
+              - Architected a $1.5M global implementation of VendorScape, the bankruptcy and foreclosure case management workflow system, for a $25M cost benefit.
+              - Developed the business case for a $2.0M global LoanServ implementation automating the loan default process.
+              - Led a matrixed team of project managers, business analysts, and contractors.
+
+      - company: "CoreLogic (formerly First American Corporation)"
+        jobs:
+          - name: "Senior Program Manager, Outsourcing & Technology Solutions"
+            date: "Oct 2007 - Aug 2011"
+            info:
+              content: "Westlake, TX"
+            content: |
+              - Led migration of Field Services databases onto a common SQL Server platform, saving about $1.08M annually.
+              - Built a technology project portfolio targeting the financial and operational drivers of Field Services.
+          - name: "Senior IT Project Manager, Outsourcing & Technology Solutions"
+            content: |
+              - Delivered client onboarding, SOP change, and client termination processes with combined savings of $565K annually.
+              - Transitioned GMAC functions to Texas and global teams in Hyderabad, reducing overhead by about $379K per year.
+              - Delivered 170 corrections and enhancements to a flagship client's standard operating procedures.
+
+  # Education
+  education:
+    enable: true
+    index: false
+    items:
+      - title: "Master of Science in Data Science"
+        school:
+          name: "Northwestern University, Evanston, IL"
+          url: "https://www.northwestern.edu/"
+        date: "Expected May 2027"
+      - title: "Master of Business Administration (MBA), Strategy and Finance"
+        school:
+          name: "Dallas Baptist University, College of Business, Dallas, TX"
+          url: "https://www.dbu.edu/"
+        date: "December 2010"
+      - title: "B.S. Public Administration; B.A. Government & Politics"
+        school:
+          name: "The University of Texas at Dallas, Richardson, TX"
+          url: "https://www.utdallas.edu/"
+        date: "May 1998"
+
+  # Achievements (used for certifications)
+  achievements:
+    enable: true
+    title: "Certifications"
+    items:
+      - title: "Project Management Professional (PMP)"
+        content: "Project Management Institute. PMI ID 1356498. January 2024 - Present."
+      - title: "Certified ScrumMaster (CSM)"
+        content: "Scrum Alliance. License 000491689. January 2016 - Present."
+
+  # Projects
+  projects:
+    enable: true
+    items:
+      - title: "Personal Portfolio Website"
+        content: "This site: a personal portfolio built with the Hugo static site generator, Go templates, and Markdown, deployed automatically to Netlify from GitHub."
+        featured:
+          name: "Live Site"
+          link: https://bobbyhendricks.netlify.app
+        badges:
+          - "Hugo"
+          - "Go"
+          - "Markdown"
+          - "Netlify"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/CHbobray/my-portfolio
+
+  # Contact
+  contact:
+    enable: true
+    content: "I am open to data science and data engineering opportunities. Whether you have a role in mind or just want to connect, send me a message."
+    btnName: "Email me"
+    btnLink: mailto:bobbyhendricks2029@u.northwestern.edu
+
+  footer:
+    recentPosts:
+      enable: false
+    socialNetworks:
+      github: https://github.com/CHbobray
+      linkedin: https://www.linkedin.com/in/bobby-h-143113252
+
+  listPages:
+    disableFeaturedImage: false
+
+  singlePages:
+    socialShare: false
+    readTime:
+      enable: false
+    scrollprogress:
+      enable: true
+    tags:
+      openInNewTab: true
+
+  terms:
+    read: "Read"
+    toc: "Table Of Contents"
+    copyright: "All rights reserved"
+    emailText: "Check out this site"
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"

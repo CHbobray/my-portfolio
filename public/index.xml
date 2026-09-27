@@ -8,6 +8,24 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;h2 id=&#34;disableshare-true&#34;&gt;title: &amp;ldquo;Resume&amp;rdquo;
+hidemeta: true
+disableShare: true&lt;/h2&gt;
+&lt;p&gt;📄 &lt;a href=&#34;http://localhost:1313/Bobby-Hendricks-Resume.pdf&#34;&gt;&lt;strong&gt;Download my resume (PDF)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Northwestern University&lt;/strong&gt; — Evanston, IL&lt;br&gt;
+Master of Science in Data Science · Expected May 2027&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dallas Baptist University, College of Business&lt;/strong&gt; — Dallas, TX&lt;br&gt;
+Master of Business Administration (MBA), Strategy and Finance · December 2010&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The University of Texas at Dallas, School of Economic, Political and Policy Sciences&lt;/strong&gt; — Richardson, TX&lt;br&gt;
+B.S. in Public Administration; B.A. in Government &amp;amp; Politics · May 1998&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Experience</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,23 +56,6 @@
 &lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Hugo, Go templates, Markdown, Git, GitHub&lt;br&gt;
 This site, built with the Hugo static site generator and deployed automatically from GitHub.&lt;br&gt;
 &lt;a href=&#34;https://github.com/YOUR-USERNAME/my-portfolio&#34;&gt;View the code on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;p&gt;📄 &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/Bobby-Hendricks-Resume.pdf&#34;&gt;Download my resume (PDF)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Northwestern University&lt;/strong&gt; — Evanston, IL&lt;br&gt;
-Master of Science in Data Science · Expected May 2027&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dallas Baptist University, College of Business&lt;/strong&gt; — Dallas, TX&lt;br&gt;
-Master of Business Administration (MBA), Strategy and Finance · December 2010&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The University of Texas at Dallas, School of Economic, Political and Policy Sciences&lt;/strong&gt; — Richardson, TX&lt;br&gt;
-B.S. in Public Administration; B.A. in Government &amp;amp; Politics · May 1998&lt;/p&gt;
-&lt;h2 id=&#34;certifications&#34;&gt;Certifications&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Project Management Professional (PMP)&lt;/strong&gt; — Project Management Institute&lt;br&gt;
-PMI ID: 1356498 · January 2024 – Present&lt;/p&gt;</description>
     </item>
     <item>
       <title>Skills</title>

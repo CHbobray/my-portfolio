@@ -1,11 +1,10 @@
-\---
-
+---
 title: "Resume"
 hidemeta: true
 disableShare: true
 ---
 
-📄 [**Download my resume (PDF)**](/Bobby-Hendricks-Resume.pdf)
+📄 **[Download my resume (PDF)](/Bobby-Hendricks-Resume.pdf)**
 
 ## Education
 
@@ -16,7 +15,7 @@ Master of Science in Data Science · Expected May 2027
 Master of Business Administration (MBA), Strategy and Finance · December 2010
 
 **The University of Texas at Dallas, School of Economic, Political and Policy Sciences** — Richardson, TX  
-B.S. in Public Administration; B.A. in Government \& Politics · May 1998
+B.S. in Public Administration; B.A. in Government & Politics · May 1998
 
 ## Certifications
 
@@ -28,6 +27,5 @@ License: 000491689 · January 2016 – Present
 
 ## Contact
 
-* Email: bobbyhendricks2029@u.northwestern.edu
-* See the [Experience](/experience/), [Projects](/projects/), and [Skills](/skills/) pages for details.
-
+- Email: [bobbyhendricks2029@u.northwestern.edu](mailto:bobbyhendricks2029@u.northwestern.edu)
+- See the [Experience](/experience/), [Projects](/projects/), and [Skills](/skills/) pages for details.

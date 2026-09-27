@@ -36,7 +36,7 @@ menus:
 params:
   title: "Bobby Hendricks"
   description: "Data Science and Data Engineering Portfolio of Bobby Hendricks"
-  favicon: "/fav.png"
+  favicon: "/images/headshot.png"
   useBootstrapCDN: false
   mathjax: false
   animate: true
@@ -73,10 +73,10 @@ params:
     title: "Bobby Hendricks."
     subtitle: "Data Science | Program Leadership | Cybersecurity"
     content: "Program and project leader with 18+ years delivering technology, data, and cybersecurity initiatives for Fortune 500 companies, now completing an M.S. in Data Science at Northwestern University."
-    image: /images/hero.svg
+    image: /images/headshot.png
     bottomImage:
       enable: true
-    roundImage: false
+    roundImage: true
     button:
       enable: true
       name: "Resume"
@@ -222,6 +222,32 @@ params:
           - icon: fab fa-github
             url: https://github.com/CHbobray/my-portfolio
 
+      - title: "Warner Bros. Discovery Valuation Analysis"
+        content: "Team valuation of the competing Netflix ($82.7B) and Paramount ($108B) bids for Warner Bros. Discovery using DCF with sensitivity analysis, comparable companies, and precedent transactions. Concluded Netflix's bid was viable while Paramount's carried unsustainable leverage."
+        featured:
+          name: "View Slides"
+          link: /projects/WBD-Valuation-Analysis.pdf
+        badges:
+          - "Valuation"
+          - "DCF"
+          - "Financial Modeling"
+          - "M&A Analysis"
+        links:
+          - icon: fas fa-file-pdf
+            url: /projects/WBD-Valuation-Analysis.pdf
+      - title: "Moz at a Crossroads: Diagnosing Unsustainable Growth"
+        content: "Team case analysis of how Moz nearly doubled revenue from 2012 to 2016 while burning $31.2M in cash. Applied the sustainable growth rate framework to diagnose four root causes and recommended a sequenced turnaround plan."
+        featured:
+          name: "View Slides"
+          link: /projects/Moz-Growth-Analysis.pdf
+        badges:
+          - "Financial Analysis"
+          - "Sustainable Growth"
+          - "Case Study"
+          - "Strategy"
+        links:
+          - icon: fas fa-file-pdf
+            url: /projects/Moz-Growth-Analysis.pdf
   # Contact
   contact:
     enable: true
@@ -258,3 +284,8 @@ params:
     article: "Jan 2, 2006"
     articleList: "Jan 2, 2006"
     articleRecent: "Jan 2, 2006"
+
+frontmatter:
+  date: ["date", ":fileModTime"]
+
+

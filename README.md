@@ -10,6 +10,7 @@ Personal portfolio website for data science and data engineering roles, built wi
 - [Hugo Profile](https://github.com/gurusabarish/hugo-profile) theme, added as a git submodule
 - Markdown content with Go templating provided by the theme
 - [Netlify](https://www.netlify.com/) for free hosting with continuous deployment from GitHub
+- Custom Go template shortcode (layouts/shortcodes/doc.html) for styled project links
 
 ## Site Structure
 
@@ -34,4 +35,5 @@ Then open http://localhost:1313. Hugo watches for changes and reloads the browse
 ## Deployment
 
 Every push to the `main` branch triggers a Netlify build (`hugo --gc --minify`), which publishes the updated site automatically.
+
 

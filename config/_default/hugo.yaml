@@ -22,6 +22,14 @@ markup:
 # The homepage sections (About, Experience, Education, etc.) are added automatically.
 menus:
   main:
+    - identifier: projectdetails
+      name: Project Details
+      url: /projects/
+      weight: 0
+    - identifier: fullexperience
+      name: Full Experience
+      url: /experience/
+      weight: 0
     - identifier: skills
       name: Skills
       title: Skills
@@ -315,6 +323,7 @@ params:
 
 frontmatter:
   date: ["date", ":fileModTime"]
+
 
 
 

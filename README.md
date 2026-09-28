@@ -1,4 +1,4 @@
-# Bobby Hendricks — Personal Portfolio Website
+# Bobby Hendricks ??? Personal Portfolio Website
 
 **Live site:** https://bobbyhendricks.netlify.app
 
@@ -7,7 +7,7 @@ Personal portfolio website for data science and data engineering roles, built wi
 ## Built With
 
 - [Hugo](https://gohugo.io/) v0.166.0 (extended), the Go static site generator
-- [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme, added as a git submodule
+- [Hugo Profile](https://github.com/gurusabarish/hugo-profile) theme, added as a git submodule
 - Markdown content with Go templating provided by the theme
 - [Netlify](https://www.netlify.com/) for free hosting with continuous deployment from GitHub
 
@@ -15,7 +15,7 @@ Personal portfolio website for data science and data engineering roles, built wi
 
 | Path | Purpose |
 |---|---|
-| `config/_default/hugo.toml` | Site settings, navigation menu, homepage profile, social links |
+| `config/_default/hugo.yaml` | Site settings, navigation menu, homepage profile, social links |
 | `content/experience.md` | Professional experience |
 | `content/projects.md` | Projects with links to code repositories |
 | `content/skills.md` | Technical skills and tools |
@@ -34,3 +34,4 @@ Then open http://localhost:1313. Hugo watches for changes and reloads the browse
 ## Deployment
 
 Every push to the `main` branch triggers a Netlify build (`hugo --gc --minify`), which publishes the updated site automatically.
+

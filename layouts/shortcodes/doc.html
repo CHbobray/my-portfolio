@@ -1,0 +1,6 @@
+{{- $file := .Get "file" -}}
+{{- $label := .Get "label" | default "View document" -}}
+{{- $icon := cond (strings.HasSuffix $file ".pdf") "fas fa-file-pdf" "fab fa-github" -}}
+<a href="{{ $file | relURL }}" class="btn btn-outline-primary btn-sm my-2" target="_blank" rel="noopener">
+  <i class="{{ $icon }}"></i> {{ $label }}
+</a>

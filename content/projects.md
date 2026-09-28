@@ -11,7 +11,7 @@ Data science and data engineering projects from my work and my M.S. in Data Scie
 
 **Tools:** Hugo, Go templates, Markdown, Git, GitHub  
 This site, built with the Hugo static site generator and deployed automatically from GitHub.  
-[View the code on GitHub](https://github.com/CHbobray/my-portfolio)
+{{< doc file="https://github.com/CHbobray/my-portfolio" label="View the code on GitHub" >}}
 
 ## The Battle for Warner Bros. Discovery: A Valuation Analysis
 
@@ -27,7 +27,7 @@ Evaluated whether Netflix's $82.7B bid ($27.75/share) or Paramount Skydance's $1
 
 **Conclusion:** Netflix's bid falls within the valuation range and is financeable. Paramount's bid exceeds intrinsic value under every method and would push combined leverage above 10x EBITDA.
 
-[View the presentation (PDF)](/projects/WBD-Valuation-Analysis.pdf)
+{{< doc file="/projects/WBD-Valuation-Analysis.pdf" label="View the presentation (PDF)" >}}
 
 ## Moz at a Crossroads: Diagnosing Unsustainable Growth
 
@@ -41,7 +41,7 @@ Analyzed why Moz, an SEO software company, nearly doubled revenue from $21.9M to
 - Applied the sustainable growth rate framework (profit margin, earnings retention, asset turnover, financial leverage) to show why Moz's growth outpaced what its financial structure could fund.
 - Recommended a sequenced turnaround: refocus on the core Moz Pro product, fix retention before scaling acquisition, and anchor growth targets to internally generated cash.
 
-[View the presentation (PDF)](/projects/Moz-Growth-Analysis.pdf)
+{{< doc file="/projects/Moz-Growth-Analysis.pdf" label="View the presentation (PDF)" >}}
 
 ## College Scorecard EDA: Do College Costs Pay Off?
 
@@ -55,7 +55,7 @@ Explored how completion rate, tuition, student debt, institution type, and enrol
 - Tested three hypotheses with correlation and regression plots: completion rate (r = 0.51) was the strongest predictor of earnings, ahead of tuition and debt (both r = 0.47).
 - Compared institution types: public schools delivered median earnings of about $49,300 at about $8,500 tuition, while for-profit schools had the lowest earnings (about $40,100) at twice the public tuition.
 
-[View the notebook and code on GitHub](https://github.com/CHbobray/college-scorecard-eda)
+{{< doc file="https://github.com/CHbobray/college-scorecard-eda" label="View the notebook and code on GitHub" >}}
 
 ## Production Planning Optimization (MSDS 460: Decision Analytics)
 
@@ -70,6 +70,7 @@ Built a multi-period linear programming model for a manufacturer producing three
 - Sensitivity analysis found that a small increase in Raw Material 1 captured nearly all of the available gain before other constraints took over.
 - An integer programming version requiring whole-unit production reduced profit by only $254 (0.004%), confirming the continuous model's plan was practical.
 
-[Read the full report (PDF)](/projects/NU-Production-Optimization.pdf)
+{{< doc file="/projects/NU-Production-Optimization.pdf" label="Read the full report (PDF)" >}}
+
 
 

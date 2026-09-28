@@ -223,6 +223,7 @@ params:
             url: https://github.com/CHbobray/my-portfolio
 
       - title: "Warner Bros. Discovery Valuation Analysis"
+        image: /images/projects/wbd-valuation.jpg
         content: "Team valuation of the competing Netflix ($82.7B) and Paramount ($108B) bids for Warner Bros. Discovery using DCF with sensitivity analysis, comparable companies, and precedent transactions. Concluded Netflix's bid was viable while Paramount's carried unsustainable leverage."
         featured:
           name: "View Slides"
@@ -236,6 +237,7 @@ params:
           - icon: fas fa-file-pdf
             url: /projects/WBD-Valuation-Analysis.pdf
       - title: "Moz at a Crossroads: Diagnosing Unsustainable Growth"
+        image: /images/projects/moz-growth.jpg
         content: "Team case analysis of how Moz nearly doubled revenue from 2012 to 2016 while burning $31.2M in cash. Applied the sustainable growth rate framework to diagnose four root causes and recommended a sequenced turnaround plan."
         featured:
           name: "View Slides"
@@ -249,6 +251,7 @@ params:
           - icon: fas fa-file-pdf
             url: /projects/Moz-Growth-Analysis.pdf
       - title: "College Scorecard EDA: Do College Costs Pay Off?"
+        image: /images/projects/scorecard-eda.png
         content: "Python exploratory analysis of 6,429 U.S. colleges linking completion rate, tuition, debt, and institution type to median earnings 10 years after entry. Found completion rate was the strongest predictor of earnings (r = 0.51)."
         badges:
           - "Python"
@@ -297,6 +300,7 @@ params:
 
 frontmatter:
   date: ["date", ":fileModTime"]
+
 
 
 

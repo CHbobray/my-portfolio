@@ -5,7 +5,7 @@ disableShare: true
 ShowToc: true
 ---
 
-Data science and data engineering projects from my work and my M.S. in Data Science at Northwestern University. Each project links to its code repository.
+Data science and data engineering projects from my work and my M.S. in Data Science at Northwestern University. Each project links to its code, report, or presentation.
 
 ## Personal Portfolio Website
 
@@ -71,4 +71,5 @@ Built a multi-period linear programming model for a manufacturer producing three
 - An integer programming version requiring whole-unit production reduced profit by only $254 (0.004%), confirming the continuous model's plan was practical.
 
 [Read the full report (PDF)](/projects/NU-Production-Optimization.pdf)
+
 

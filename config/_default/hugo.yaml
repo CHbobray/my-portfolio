@@ -209,6 +209,7 @@ params:
     enable: true
     items:
       - title: "Personal Portfolio Website"
+        image: /images/projects/portfolio.png
         content: "This site: a personal portfolio built with the Hugo static site generator, Go templates, and Markdown, deployed automatically to Netlify from GitHub."
         featured:
           name: "Live Site"
@@ -300,6 +301,7 @@ params:
 
 frontmatter:
   date: ["date", ":fileModTime"]
+
 
 
 

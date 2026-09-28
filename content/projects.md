@@ -66,3 +66,18 @@ Explored how completion rate, tuition, student debt, institution type, and enrol
 - Compared institution types: public schools delivered median earnings of about $49,300 at about $8,500 tuition, while for-profit schools had the lowest earnings (about $40,100) at twice the public tuition.
 
 [View the notebook and code on GitHub](https://github.com/CHbobray/college-scorecard-eda)
+
+## Production Planning Optimization (MSDS 460: Decision Analytics)
+
+**Tools:** Python, PuLP, GLPK solver, pandas  
+**Type:** Team project, Northwestern University, August 2026
+
+Built a multi-period linear programming model for a manufacturer producing three products at two plants over five periods, choosing production, inventory, labor, overtime, advertising, and shipping to maximize profit while meeting contract demand.
+
+- Formulated the objective, decision variables, and constraints (inventory balance, demand, labor, raw materials, storage, and advertising budget), then verified the solution with automated constraint checks.
+- The baseline model produced an optimal profit of $7.07M on $8.48M in revenue.
+- Scenario analysis showed Raw Material 1 was the critical bottleneck: a 25% increase added $63,295 in profit, versus $20,559 for more Plant B labor and $0 for a larger advertising budget.
+- Sensitivity analysis found that a small increase in Raw Material 1 captured nearly all of the available gain before other constraints took over.
+- An integer programming version requiring whole-unit production reduced profit by only $254 (0.004%), confirming the continuous model's plan was practical.
+
+[Read the full report (PDF)](/projects/NU-Production-Optimization.pdf)

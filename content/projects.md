@@ -13,16 +13,6 @@ Data science and data engineering projects from my work and my M.S. in Data Scie
 This site, built with the Hugo static site generator and deployed automatically from GitHub.  
 [View the code on GitHub](https://github.com/CHbobray/my-portfolio)
 
-<!--
-Copy this block for each new project:
-
-## Project Name
-
-**Tools:** Python, pandas, scikit-learn  
-One to three sentences: the problem, what you built, and the result (use numbers if you can).  
-[View the code on GitHub](https://github.com/CHbobray/repo-name)
--->
-
 ## The Battle for Warner Bros. Discovery: A Valuation Analysis
 
 **Type:** Team project (Group 3), February 2026  
@@ -81,3 +71,4 @@ Built a multi-period linear programming model for a manufacturer producing three
 - An integer programming version requiring whole-unit production reduced profit by only $254 (0.004%), confirming the continuous model's plan was practical.
 
 [Read the full report (PDF)](/projects/NU-Production-Optimization.pdf)
+

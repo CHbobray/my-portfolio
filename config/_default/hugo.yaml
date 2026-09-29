@@ -128,6 +128,7 @@ params:
     enable: true
     items:
       - company: "XMS Solutions, Inc."
+        companyUrl: "https://www.xmssolutions.com/"
         jobs:
           - name: "Director, Project Management"
             date: "Jan 2019 - Present"
@@ -140,6 +141,7 @@ params:
               - Translate technical cybersecurity risks into clear business impacts and decisions for executives.
 
       - company: "Fannie Mae"
+        companyUrl: "https://www.fanniemae.com/"
         jobs:
           - name: "Senior Project Manager, Single-Family Strategy & Insights"
             date: "Feb 2013 - Dec 2018"
@@ -155,7 +157,8 @@ params:
               - Led all phases of the Credit Division Windows 8 migration.
               - Managed BTO administrative budgets and Quarterly Business Reviews for senior leadership.
 
-      - company: "Ocwen Financial (formerly Homeward Residential)"
+      - company: "Ocwen Financial (now Onity Group)"
+        companyUrl: "https://www.onitygroup.com/"
         jobs:
           - name: "Senior Manager, Project Management"
             date: "Aug 2011 - Feb 2013"
@@ -323,6 +326,7 @@ params:
 
 frontmatter:
   date: ["date", ":fileModTime"]
+
 
 
 

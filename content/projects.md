@@ -71,6 +71,8 @@ Built a multi-period linear programming model for a manufacturer producing three
 - An integer programming version requiring whole-unit production reduced profit by only $254 (0.004%), confirming the continuous model's plan was practical.
 
 {{< doc file="/projects/NU-Production-Optimization.pdf" label="Read the full report (PDF)" >}}
+{{< doc file="https://github.com/CHbobray/nu-production-optimization" label="View the code on GitHub" >}}
+
 
 
 

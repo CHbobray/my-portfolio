@@ -288,6 +288,8 @@ params:
         links:
           - icon: fas fa-file-pdf
             url: /projects/NU-Production-Optimization.pdf
+          - icon: fab fa-github
+            url: https://github.com/CHbobray/nu-production-optimization
   # Contact
   contact:
     enable: true
@@ -327,6 +329,7 @@ params:
 
 frontmatter:
   date: ["date", ":fileModTime"]
+
 
 
 

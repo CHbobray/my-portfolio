@@ -271,9 +271,14 @@ params:
           - "pandas"
           - "seaborn"
           - "EDA"
+        featured:
+          name: "Read Report"
+          link: /projects/College-Scorecard-EDA-Report.pdf
         links:
           - icon: fab fa-github
             url: https://github.com/CHbobray/college-scorecard-eda
+          - icon: fas fa-file-pdf
+            url: /projects/College-Scorecard-EDA-Report.pdf
       - title: "Production Planning Optimization"
         image: /images/projects/nu-optimization.png
         content: "Team linear programming model in Python (PuLP/GLPK) planning production, inventory, labor, advertising, and shipping across two plants and five periods. Maximized profit at $7.07M and identified the key resource bottleneck through scenario and sensitivity analysis."
@@ -329,6 +334,8 @@ params:
 
 frontmatter:
   date: ["date", ":fileModTime"]
+
+
 
 
 

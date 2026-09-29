@@ -53,7 +53,7 @@ February 2013 ??? December 2018
 - Built a program management team for bankruptcy, foreclosure, and strategic initiative systems, centralizing management and collaboration tools for IT borrower services and loan administration.
 - Developed the business case for and initiated a **$2.0M global LoanServ implementation** automating the loan default process from initial contact through underwriting and settlement, supporting regulatory, credit risk, and investor requirements.
 
-## CoreLogic, Inc. (formerly First American Corporation) ??? Westlake, TX
+## [CoreLogic, Inc.](https://www.cotality.com/) (now Cotality; formerly First American Corporation) ??? Westlake, TX
 
 October 2007 ??? August 2011
 
@@ -71,4 +71,5 @@ October 2007 ??? August 2011
 - Transitioned all GMAC on-site functions from Waterloo, Iowa to Westlake, Texas, and moved first-time vacancies, CIT, and winterization functions to global teams in Hyderabad, reducing annual operational overhead by approximately **$379K**.
 - Managed initiatives that built capacity within Field Services for teams to adapt and create new pathways to market share and revenue.
 - Designed and executed a project framework that delivered **170 corrections and enhancements** to a flagship client's standard operating procedures.
+
 

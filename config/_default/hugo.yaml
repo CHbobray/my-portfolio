@@ -169,7 +169,8 @@ params:
               - Developed the business case for a $2.0M global LoanServ implementation automating the loan default process.
               - Led a matrixed team of project managers, business analysts, and contractors.
 
-      - company: "CoreLogic (formerly First American Corporation)"
+      - company: "CoreLogic (now Cotality)"
+        companyUrl: "https://www.cotality.com/"
         jobs:
           - name: "Senior Program Manager, Outsourcing & Technology Solutions"
             date: "Oct 2007 - Aug 2011"
@@ -326,6 +327,7 @@ params:
 
 frontmatter:
   date: ["date", ":fileModTime"]
+
 
 
 

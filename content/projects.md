@@ -55,6 +55,7 @@ Explored how completion rate, tuition, student debt, institution type, and enrol
 - Tested three hypotheses with correlation and regression plots: completion rate (r = 0.51) was the strongest predictor of earnings, ahead of tuition and debt (both r = 0.47).
 - Compared institution types: public schools delivered median earnings of about $49,300 at about $8,500 tuition, while for-profit schools had the lowest earnings (about $40,100) at twice the public tuition.
 
+{{< doc file="/projects/College-Scorecard-EDA-Report.pdf" label="Read the full report (PDF)" >}}
 {{< doc file="https://github.com/CHbobray/college-scorecard-eda" label="View the notebook and code on GitHub" >}}
 
 ## Production Planning Optimization (MSDS 460: Decision Analytics)
@@ -72,6 +73,7 @@ Built a multi-period linear programming model for a manufacturer producing three
 
 {{< doc file="/projects/NU-Production-Optimization.pdf" label="Read the full report (PDF)" >}}
 {{< doc file="https://github.com/CHbobray/nu-production-optimization" label="View the code on GitHub" >}}
+
 
 
 

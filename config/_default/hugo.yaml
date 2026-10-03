@@ -44,7 +44,7 @@ menus:
 params:
   title: "Bobby Hendricks"
   description: "Data Science and Data Engineering Portfolio of Bobby Hendricks"
-  favicon: "/images/headshot.png"
+  favicon: "/images/headshot.jpg"
   useBootstrapCDN: false
   mathjax: false
   animate: false
@@ -81,7 +81,7 @@ params:
     title: "Bobby Hendricks."
     subtitle: "Data Science | Program Leadership | Cybersecurity"
     content: "Program and project leader with 18+ years delivering technology, data, and cybersecurity initiatives for Fortune 500 companies, now completing an M.S. in Data Science at Northwestern University."
-    image: /images/headshot.png
+    image: /images/headshot.jpg
     bottomImage:
       enable: true
     roundImage: true
@@ -334,6 +334,7 @@ params:
 
 frontmatter:
   date: ["date", ":fileModTime"]
+
 
 
 

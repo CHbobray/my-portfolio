@@ -47,6 +47,22 @@ params:
   favicon: "/images/headshot.jpg"
   useBootstrapCDN: false
   mathjax: false
+  color:
+    textColor: "#343a40"
+    secondaryTextColor: "#495057"
+    textLinkColor: "#0056b3"
+    backgroundColor: "#eaedf0"
+    secondaryBackgroundColor: "#64ffda1a"
+    primaryColor: "#007bff"
+    secondaryColor: "#f8f9fa"
+    darkmode:
+      textColor: "#e4e6eb"
+      secondaryTextColor: "#b0b3b8"
+      textLinkColor: "#ffffff"
+      backgroundColor: "#18191a"
+      secondaryBackgroundColor: "#212529"
+      primaryColor: "#ffffff"
+      secondaryColor: "#212529"
   animate: false
 
   theme:
@@ -334,6 +350,7 @@ params:
 
 frontmatter:
   date: ["date", ":fileModTime"]
+
 
 
 

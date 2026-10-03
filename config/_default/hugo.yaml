@@ -47,7 +47,7 @@ params:
   favicon: "/images/headshot.png"
   useBootstrapCDN: false
   mathjax: false
-  animate: true
+  animate: false
 
   theme:
     defaultTheme: "light"
@@ -334,6 +334,7 @@ params:
 
 frontmatter:
   date: ["date", ":fileModTime"]
+
 
 
 
